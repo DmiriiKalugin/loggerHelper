@@ -1,6 +1,6 @@
 {
     "name": "dmitrijkalugin/logger-helper",
-    "description": "Logging the code to the console",
+    "description": "Logging code to console",
     "license": "MIT",
     "autoload": {
         "psr-4": {
