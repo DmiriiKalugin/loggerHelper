@@ -1,5 +1,6 @@
 {
     "name": "dmitrijkalugin/logger-helper",
+    "version": "0.0.1",
     "description": "Logging code to console",
     "license": "MIT",
     "autoload": {
@@ -14,5 +15,7 @@
         }
     ],
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+
+    }
 }
