@@ -1,5 +1,7 @@
 <?php
 
+namespace Dmitrijkalugin\LoggerHelper;
+
 class LoggerHelper
 {
     private const GREEN = "\033[32m";
