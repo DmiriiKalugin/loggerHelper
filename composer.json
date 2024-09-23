@@ -1,6 +1,6 @@
 {
     "name": "dmitrijkalugin/logger-helper",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Logging code to console",
     "license": "MIT",
     "autoload": {
